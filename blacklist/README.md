@@ -271,3 +271,4 @@
 |成都|[中通服创立信息科技有限公司](http://www.ccsenrising.com/)|2019年12月|996/997|[群内领导通知截图](img/chuangli.jpg)|
 |上海|安硕信息|2019年11月7日|996|[看准网](https://www.kanzhun.com/pl7574425.html?ka=review-item-ckqw)|
 |上海|上海竟跃网络科技有限公司|2019年或更早|招聘网站写明007|[招聘截图](img/捞月狗招聘信息.jpg)|
+|USA|APIFINY|2020年1月|[群聊截图](img/APIFINY.jpg)|2019年10月-12月|明令10am - 10pm|截图找不到了
