@@ -43,18 +43,18 @@ Voices
 ---
 
 ### State Media
-- **Xinhua News**: [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+- **Xinhua News Agency editorial**: [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
 - **The People's Daily**: [Encourage hard-working doesn't means to force 996](https://baijiahao.baidu.com/s?id=1630774179249573422)
 
 
 ### Capitalists
-- **Jack Ma, founder of Alibaba**: `It is a huge blessing to be able to '996'`.
-- **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
-(However, as a result many anonymous employees claim that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when asking employees to work as '996'.)
-- **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years.`
+- **Jack Ma, founder of Alibaba**: `It is a huge blessing to be able to "996"`.
+- **Richard Liu, founder of JD.com**: `We will never force our employee to work as "996"`.
+(However, many anonymous employees claim that there is an internal **ranking list**, in which departments are **ranked** by overtime hours. The one which takes least overtime will be punished. And the leaders never leave paper trails when asking employees to work as "996".)
+- **Bai Ya, founder of Youzan**: `This [adopting the "996" work schedule] will definitely be a right decision when we look back in a few years.`
 
 ### Developers
-- **Guido van Rossum, founder of Python**: [`The '996' working schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
+- **Guido van Rossum, founder of Python**: [`The 996 work schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
 
 
 Principles and purposes
@@ -64,7 +64,7 @@ Principles and purposes
 
 * This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
-* It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
+* It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers’ rights.
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
@@ -72,7 +72,7 @@ Principles and purposes
 Expanding influence
 ---
 
-Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+Please feel free to [translate 996.ICU’s contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 Community powers
 ---
