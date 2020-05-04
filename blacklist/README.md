@@ -270,3 +270,4 @@
 |长沙|[湖南天云软件技术](http://www.tcloudsoft.com/)|2019年8月,9月,10月|要求义务加班到凌晨2.3点、周末加班、劝退不给赔偿、克扣工资、喝酒不喝吐领导进行人身攻击|[钉钉截图](img/tianyun1.jpeg)，[钉钉截图](img/tianyun2.jpeg)||上海|上海云轴信息科技有限公司(ZStack)|2019年8月|公司HR招聘时会告知你996具体工作时间以及能否接受|[看准网](https://www.kanzhun.com/gso6456964.html)|
 |成都|[中通服创立信息科技有限公司](http://www.ccsenrising.com/)|2019年12月|996/997|[群内领导通知截图](img/chuangli.jpg)|
 |上海|安硕信息|2019年11月7日|996|[看准网](https://www.kanzhun.com/pl7574425.html?ka=review-item-ckqw)|
+|上海|上海竟跃网络科技有限公司|2019年或更早|招聘网站写明007|[招聘截图](img/捞月狗招聘信息.jpg)|
